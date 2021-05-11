@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538785946123",
+    "project_id": "gla-notebook",
+    "storage_bucket": "gla-notebook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538785946123:android:88d9669ec3f427817e450e",
+        "android_client_info": {
+          "package_name": "com.example.glanotebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538785946123-1vmeie10d9bj6sej0ambdgn7b0vpuuag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7cFPh6uLZXUHZZybJBnAPajBZVWpHLVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538785946123-1vmeie10d9bj6sej0ambdgn7b0vpuuag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
