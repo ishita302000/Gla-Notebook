@@ -6,4 +6,58 @@
     android:layout_height="match_parent"
     tools:context=".branch">
 
+    <Button
+        android:id="@+id/cs"
+        android:layout_width="415dp"
+        android:layout_height="78dp"
+        android:text="Computer Science"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.139" />
+
+    <Button
+        android:id="@+id/ec"
+        android:layout_width="417dp"
+        android:layout_height="78dp"
+        android:layout_marginStart="113dp"
+        android:layout_marginLeft="113dp"
+        android:layout_marginTop="155dp"
+        android:layout_marginEnd="210dp"
+        android:layout_marginRight="210dp"
+        android:text="Electronics"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.365"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.063" />
+
+    <Button
+        android:id="@+id/mc"
+        android:layout_width="423dp"
+        android:layout_height="74dp"
+        android:layout_marginStart="125dp"
+        android:layout_marginLeft="125dp"
+        android:layout_marginTop="61dp"
+        android:layout_marginEnd="198dp"
+        android:layout_marginRight="198dp"
+        android:text="Mechanical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.391"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.367" />
+
+    <Button
+        android:id="@+id/cv"
+        android:layout_width="418dp"
+        android:layout_height="70dp"
+        android:text="Civil"
+        tools:layout_editor_absoluteX="-5dp"
+        tools:layout_editor_absoluteY="374dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
